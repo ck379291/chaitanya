@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">chaitanya</string>
+    <string name="WeightCalculation">YOU ARE UNDERWEIGHT /NORMAL/UNDERHEIGHT</string>
+    <string name="calculate_bmt">CALCULATE BMT</string>
+    <string name="user_height_weight">ENTER YOUR HEIGHT IN CM</string>
+
+</resources>
