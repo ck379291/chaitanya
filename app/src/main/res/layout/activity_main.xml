@@ -10,17 +10,18 @@
        android:id="@+id/user_weight"
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
-       android:text="ENTER YOUR WEIGHT IN KG"
+       android:text="@string/enter_your_weight_in_kg"
        android:layout_gravity="center"
        android:textSize="30sp"
+       android:padding="30sp"
       />
    <TextView
-
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
        android:text="@string/user_height_weight"
        android:layout_gravity="center"
        android:textSize="30sp"
+       android:padding="30dp"
        />
 
    <Button
@@ -30,15 +31,20 @@
        android:text="@string/calculate_bmt"
        android:layout_gravity="center_horizontal"
        android:textSize="30sp"
+       android:textStyle="bold"
+       android:gravity="center|bottom"
       />
+
    <TextView
 
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
-      android:text="@string/WeightCalculation"
-      android:layout_gravity="center"
-       android:textSize="30sp"
-      />
+       android:layout_gravity="center"
+       android:text="@string/WeightCalculation"
+       android:textStyle="bold"
+
+
+       android:textSize="30sp" />
 
 
 </LinearLayout>
