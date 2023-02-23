@@ -3,5 +3,6 @@
     <string name="WeightCalculation">YOU ARE UNDERWEIGHT /NORMAL/UNDERHEIGHT</string>
     <string name="calculate_bmt">CALCULATE BMT</string>
     <string name="user_height_weight">ENTER YOUR HEIGHT IN CM</string>
+    <string name="enter_your_weight_in_kg">ENTER YOUR WEIGHT IN KG</string>
 
 </resources>
